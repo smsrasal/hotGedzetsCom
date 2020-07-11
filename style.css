@@ -1,0 +1,45 @@
+.container{
+    padding:  10px 20px;
+}
+.carousel{
+    background-image:url('hot-gadgets/header-bg.png');
+    background-color: white;
+    background-size: cover;
+    background-position: right;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+} 
+.carousel-item{
+    padding:  30px 40px;
+}
+.btn btn-lg{
+    background-color:black ;
+}
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;  
+    margin-right:  carousel-control-width;
+    margin-left: carousel-control-width;
+    list-style: none;
+  
+     
+  }
+  .footer{
+      text-align: center;
+  }
+  .form-control{
+      background-color:lightcyan;
+  }
+  .btn{
+      background-color: linear-gradient rgba( #45d669d3);
+  }
+  
