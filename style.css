@@ -33,6 +33,20 @@
   
      
   }
+  .color{
+      text-emphasis-color: white;
+  }
+  .card{
+    
+      border-radius: 5px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      -ms-border-radius: 5px;
+      -o-border-radius: 5px;
+}
+.perfume{
+    margin-top: 20px;
+}
   .footer{
       text-align: center;
   }
